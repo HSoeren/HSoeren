@@ -1,6 +1,6 @@
  [![HSoeren's github stats](https://github-readme-stats.vercel.app/api?username=HSoeren&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hi there 👋
+## 👋 Hi there
 I'm Sören from Hamburg 
 
 ## 💻 Currently working on:
