@@ -4,7 +4,6 @@
 I'm Sören from Hamburg 
 
 ## 💻 Currently working on:
-- university assignements
 - private projects
 
 ## 📫 How to reach me:
